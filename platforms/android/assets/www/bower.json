@@ -1,0 +1,25 @@
+{
+  "name": "smartMouth",
+  "version": "1.0.0",
+  "authors": [
+    "arvindr21 <arvind.ravulavaru@gmail.com>"
+  ],
+  "description": "Your Friend in Foreign Lands!",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "bootstrap": "~3.2.0",
+    "speech-synthesis-cordova": "git@github.com:arvindr21/speech-synthesis-cordova.git#~0.4.1"
+  }
+}
